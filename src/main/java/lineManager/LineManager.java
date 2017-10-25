@@ -3,6 +3,7 @@ package lineManager;
 import java.util.ArrayList;
 import java.util.StringJoiner;
 
+//KWIC Index Processing System - Version 2 (Provided by Ken Hang)
 public class LineManager {
 
     private ArrayList<String> allLines;

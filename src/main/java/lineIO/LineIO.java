@@ -4,6 +4,7 @@ import lineManager.LineManager;
 
 import java.io.File;
 
+//KWIC Index Processing System - Version 2 (Provided by Ken Hang)
 public class LineIO {
 
     private LineManager theManager;
